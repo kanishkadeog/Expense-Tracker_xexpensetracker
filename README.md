@@ -35,7 +35,8 @@ This project demonstrates fundamental concepts of React like state management, f
 
 
 | ![Submitted]
-![image](![image](https://github.com/user-attachments/assets/b710973d-f886-44af-8a23-c5b0ec407726)
+![image](![image](https://github.com/user-attachments/assets/bb22a373-94aa-44a2-b41a-16529c06cd89)
+)
 )
 
  |
@@ -51,6 +52,45 @@ This project demonstrates fundamental concepts of React like state management, f
 ## 📂 Folder Structure
 src/
 │
+├── components/
+│     ├── BarChart/
+│     │     ├── BarChart.jsx
+│     │     └── BarChart.module.css
+│     ├── Button/
+│     │     ├── Button.jsx
+│     │     └── Button.module.css
+│     ├── Card/
+│     │     ├── Card.jsx
+│     │     └── Card.module.css
+│     ├── Forms/
+│     │     ├── AddBalanceForm/
+│     │     │     ├── AddBalanceForm.jsx
+│     │     │     └── AddBalanceForm.module.css
+│     │     └── ExpenseForm/
+│     │           ├── ExpenseForm.jsx
+│     │           └── ExpenseForm.module.css
+│     ├── Modal/
+│     │     ├── Modal.jsx
+│     │     └── Modal.module.css
+│     ├── Pagination/
+│     │     ├── Pagination.jsx
+│     │     └── Pagination.module.css
+│     ├── PieChart/
+│     │     ├── PieChart.jsx
+│     │     └── PieChart.module.css
+│     ├── TransactionCard/
+│     │     ├── TransactionCard.jsx
+│     │     └── TransactionCard.module.css
+│     └── TransactionList/
+│           ├── TransactionList.jsx
+│           └── TransactionList.module.css
+├── pages\Home/
+│     ├── Home.jsx
+│     └── Home.module.css
 ├── App.js
-├── App.css
-└── index.js
+├── index.css
+├── index.js
+└── style.css
+
+
+ 
