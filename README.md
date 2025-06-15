@@ -25,19 +25,17 @@ This project demonstrates fundamental concepts of React like state management, f
 
 [Live Demo Link](https://xexpensetracker-6vjztrona-kanishkas-projects-95e27a37.vercel.app/)
 
+
 ## 📸 Screenshots
 
 | Initial View | After Submission |
 |--------------|------------------|
 | ![Initial]
-![image](![image](https://github.com/user-attachments/assets/fae4473c-9515-4f8d-b20e-ebd5d2e3ac30)
-)
+![image](https://github.com/user-attachments/assets/fae4473c-9515-4f8d-b20e-ebd5d2e3ac30)
 
 
 | ![Submitted]
-![image](![image](https://github.com/user-attachments/assets/bb22a373-94aa-44a2-b41a-16529c06cd89)
-)
-)
+![image](https://github.com/user-attachments/assets/bb22a373-94aa-44a2-b41a-16529c06cd89)
 
  |
 
